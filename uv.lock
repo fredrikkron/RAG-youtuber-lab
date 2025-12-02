@@ -2936,6 +2936,7 @@ dependencies = [
     { name = "lancedb" },
     { name = "pandas" },
     { name = "pydantic-ai" },
+    { name = "requests" },
     { name = "streamlit" },
     { name = "uvicorn" },
 ]
@@ -2948,6 +2949,7 @@ requires-dist = [
     { name = "lancedb", specifier = ">=0.25.3" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pydantic-ai", specifier = ">=1.25.1" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "streamlit", specifier = ">=1.51.0" },
     { name = "uvicorn", specifier = ">=0.38.0" },
 ]
