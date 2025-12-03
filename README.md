@@ -9,3 +9,7 @@
         
     - alternatively sync with this project using
         uv sync
+
+
+### Ingestion to db (knowledge base)
+    uv run ingestion.py
