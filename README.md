@@ -8,7 +8,7 @@ Ingest data from youtube content transcriptions into a local vector database (**
 
 Query the **knowledge_base** through a FastAPI backend
 
-Interactively chat with the knowledge base through a Streamlit frontend 
+Interactively chat with an Agent based on the knowledge base through a Streamlit frontend
 
 *For personal experimentation:*
 Make changes to the Agent with a different system prompt and/or test different questions.
